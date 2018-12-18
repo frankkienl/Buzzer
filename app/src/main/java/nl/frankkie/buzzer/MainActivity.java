@@ -25,13 +25,6 @@ import java.util.Map;
 
 public class MainActivity extends Activity {
 
-    private static final String PROJECT_ID = "616962368505";
-    private static final String BASE_URL = "https://fcm.googleapis.com";
-    private static final String FCM_SEND_ENDPOINT = "/v1/projects/" + PROJECT_ID + "/messages:send";
-    private static final String MESSAGING_SCOPE = "https://www.googleapis.com/auth/firebase.messaging";
-    private static final String[] SCOPES = {MESSAGING_SCOPE};
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

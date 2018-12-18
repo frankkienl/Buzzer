@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buzzer</string>
+    <string name="buzzer">Buzzer</string>
+    <string name="buzz">Buzz all!!</string>
+    <string name="register">Register</string>
+    <string name="register_name">Name of device to register</string>
+</resources>
